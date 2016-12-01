@@ -1,0 +1,23 @@
+baseurl = "https://JackeyLee007.github.io/"
+title = "RocWay的博客"
+languageCode = "en-zh"
+
+MetaDataFormat = "toml"
+paginate = 10 # optional
+disqusShortname = "Your Disqus Name" # optional
+copyright = "© 2017 Copyright Text"
+
+[params]
+  author = "RocWay"
+  photo = "images/photo.png" # optional
+  profile = "images/profile.png" # optional
+  cover = "images/cover.png" # optional
+  twitter = "Your Twitter Name" # optional
+  github = "JackeyLee007" # optional
+  facebook = "Your facebook Name" # optional
+  gplus = "Your Google+ Name" # optional
+  linkedin = "Your linkedin Name" # optional
+  googleAnalyticsUserID = "Your Analytics User Id" # optional
+
+[permalinks]
+  post = "/:year/:month/:day/:filename/" # optional
