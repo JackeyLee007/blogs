@@ -7,5 +7,5 @@
 [TOC]
 
 ## 架构模型
-![](https://github.com/JackeyLee007/blogs/blob/master/images/BlogImages/RPC.PNG)
-![](https://github.com/JackeyLee007/blogs/blob/master/images/BlogImages/MQvsRPC/MQ.PNG)
+![RPC](https://github.com/JackeyLee007/blogs/blob/master/images/BlogImages/RPC.PNG)
+![MQ](https://github.com/JackeyLee007/blogs/blob/master/images/BlogImages/MQvsRPC/MQ.PNG)
