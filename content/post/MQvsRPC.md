@@ -13,14 +13,14 @@ series = [ "分布式系统" ]
 [TOC]
 
 ## 架构模型
-![RPC](https://github.com/JackeyLee007/blogs/blob/master/images/BlogImages/RPC.PNG)
+![RPC](http://ohpg9orwb.bkt.clouddn.com/blogs/MQvsRPC/RPC.PNG)
 RPC的特点是：
 
 - 客户端***同步***调用服务器上的方法、过程
 - 客户端的请求只能由***一个***服务器处理，虽然请求可以分发到不同的服务器，但一次只能由一个服务器处理
 - 架构简单、明晰
 
-![MQ](https://github.com/JackeyLee007/blogs/blob/master/images/BlogImages/MQvsRPC/MQ.PNG)
+![MQ](http://ohpg9orwb.bkt.clouddn.com/blogs/MQvsRPC/MQ.PNG)
 MQ的特点是:
 
 - 消息的发送者和消费者解耦，即消息的产生和处理是异步的
