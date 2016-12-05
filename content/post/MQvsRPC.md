@@ -1,7 +1,7 @@
 +++
 title = "MQ vs RPC"
 draft = false
-date = "2016-12-5T16:29:06+08:00"
+date = "2016-12-05T16:29:06+08:00"
 tags = [ "分布式", "RPC", "MQ"]
 categories = [ "架构" ]
 series = [ "分布式系统" ]
