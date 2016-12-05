@@ -1,3 +1,4 @@
+theme = "polymer"
 baseurl = "https://JackeyLee007.github.io/"
 title = "RocWay的博客"
 languageCode = "en-zh"
@@ -21,3 +22,8 @@ copyright = "© 2017 Copyright Text"
 
 [permalinks]
   post = "/:year/:month/:day/:filename/" # optional
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
