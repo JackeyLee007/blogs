@@ -27,3 +27,5 @@ copyright = "© 2017 Copyright Text"
   tag = "tags"
   category = "categories"
   series = "series"
+[blackfriday]
+  extensions = ["hardLineBreak"]
