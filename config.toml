@@ -5,7 +5,7 @@ languageCode = "en-zh"
 
 MetaDataFormat = "toml"
 paginate = 10 # optional
-disqusShortname = "Your Disqus Name" # optional
+disqusShortname = "RocWay" # optional
 copyright = "© 2017 Copyright Text"
 
 [params]

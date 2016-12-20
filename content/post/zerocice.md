@@ -254,3 +254,4 @@ python Client.py
 ## 版权声明
 
 &emsp;&emsp;此课程内容由作者RocWay提供并授权使用，实验楼基于原著进行了内容和章节的优化，修正了一些错误。版权归原作者所有。未经允许，不得以任何形式进行传播和发布
+{{ template "_internal/disqus.html" . }}
